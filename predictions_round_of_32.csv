@@ -1,0 +1,17 @@
+date,home_team,away_team,p_home_wins,p_away_wins,predicted_winner,confidence
+2026-06-28,South Africa,Canada,0.30370617,0.69629383,Canada,0.69629383
+2026-06-29,Germany,Paraguay,0.76539713,0.23460287,Germany,0.76539713
+2026-06-29,Brazil,Japan,0.6722384,0.3277616,Brazil,0.6722384
+2026-06-29,Netherlands,Morocco,0.42226574,0.57773423,Morocco,0.57773423
+2026-06-30,France,Sweden,0.9382765,0.06172347,France,0.9382765
+2026-06-30,Ivory Coast,Norway,0.2796303,0.7203697,Norway,0.7203697
+2026-06-30,Mexico,Ecuador,0.72717965,0.27282035,Mexico,0.72717965
+2026-07-01,Belgium,Senegal,0.5521292,0.4478708,Belgium,0.5521292
+2026-07-01,England,DR Congo,0.87347203,0.12652797,England,0.87347203
+2026-07-01,United States,Bosnia and Herzegovina,0.915279,0.08472103,United States,0.915279
+2026-07-02,Portugal,Croatia,0.6357272,0.36427277,Portugal,0.6357272
+2026-07-02,Spain,Austria,0.88893825,0.11106175,Spain,0.88893825
+2026-07-02,Switzerland,Algeria,0.6886087,0.3113913,Switzerland,0.6886087
+2026-07-03,Argentina,Cape Verde,0.9577019,0.04229808,Argentina,0.9577019
+2026-07-03,Australia,Egypt,0.6433742,0.3566258,Australia,0.6433742
+2026-07-03,Colombia,Ghana,0.9304969,0.06950313,Colombia,0.9304969
